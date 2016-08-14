@@ -1,0 +1,17 @@
+{
+  "name": "dapp-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "beefy index.js --live --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^0.17.0-alpha"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.8"
+  }
+}
