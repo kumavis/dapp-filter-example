@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web3": "^0.17.0-alpha"
+    "web3": "^0.18.0"
   },
   "devDependencies": {
     "beefy": "^2.1.8"
